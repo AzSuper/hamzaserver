@@ -7,7 +7,6 @@ const fs = require('fs');
 
 const app = express();
 
-require('dotenv').config();
 const PORT = process.env.PORT;
 
 // Enable CORS & JSON Parsing
