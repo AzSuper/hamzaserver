@@ -1,6 +1,5 @@
 node_modules/
 .env
 database.db
-uploads/
 .vercel
 meterialPhoto/
